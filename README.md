@@ -1,4 +1,4 @@
-tomcat shibboleth integration demo
+tomcat shibboleth integration demo 2
 ==================================
 
 This repository contains two Vagrant configurations for demonstrating a
